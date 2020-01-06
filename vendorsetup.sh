@@ -1,1 +1,3 @@
-add_lunch_combo cm_novel3gskt-userdebug
+add_lunch_combo cm_novelltekx-eng
+add_lunch_combo cm_novelltekx-userdebug
+add_lunch_combo cm_novelltekx-user

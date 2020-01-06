@@ -1,6 +1,6 @@
-$(call inherit-product-if-exists, vendor/samsung/novel3gskt/novel3gskt-vendor.mk)
+$(call inherit-product, vendor/samsung/novelltekx/novelltekx-vendor.mk)
 
-LOCAL_PATH := device/samsung/novel3gskt
+LOCAL_PATH := device/samsung/novelltekx
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
