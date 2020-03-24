@@ -1,4 +1,4 @@
-$(call inherit-product, vendor/samsung/novelltekx/novelltekx-vendor.mk)
+$(call inherit-product, vendor/samsung/novel/novel-vendor.mk)
 
 LOCAL_PATH := device/samsung/novelltekx
 
